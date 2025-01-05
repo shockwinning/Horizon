@@ -1,14 +1,2 @@
 {
-    "5227866155": {
-        "Reason": "Handle Tampering",
-        "Date": "12/27/2024"
-    },
-    "2661158447": {
-        "Reason": "Desync FFlag",
-        "Date": "12/28/2024"
-    },
-    "7251747965": {
-        "Reason": "Handle Tampering, Humanoid Tampering",
-        "Date": "12/28/2024"
-    }
 }
