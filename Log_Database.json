@@ -50,8 +50,8 @@
         "Username": "shryxsvn"
     },
     "2295048142": {
-        "Reason": "Exploit Error",
-        "Date": "02/23/2025 9:27 AM",
+        "Reason": "Exploit Error, Hookmetamethod",
+        "Date": "03/14/2025 5:11 PM",
         "Username": "COLDIOC"
     },
     "3834377152": {
@@ -118,5 +118,70 @@
         "Reason": "External Exploit",
         "Date": "02/09/2025 7:51 PM",
         "Username": "ghostbldes"
+    },
+    "12279686": {
+        "Reason": "Tank",
+        "Date": "03/13/2025 4:19 PM",
+        "Username": "romanticearths"
+    },
+    "1064287324": {
+        "Reason": "Handle Tampering",
+        "Date": "03/13/2025 5:57 PM",
+        "Username": "envlgoratings"
+    },
+    "44289719": {
+        "Reason": "Handle Tampering, Unknown Instance",
+        "Date": "03/13/2025 8:21 PM",
+        "Username": "resourved"
+    },
+    "2959401422": {
+        "Reason": "Tank",
+        "Date": "03/14/2025 11:21 AM",
+        "Username": "russofan1345"
+    },
+    "320511005": {
+        "Reason": "Firetouchinterest, Tank",
+        "Date": "03/14/2025 11:21 AM",
+        "Username": "AkimDJ"
+    },
+    "1426095492": {
+        "Reason": "CBring",
+        "Date": "03/14/2025 2:38 PM",
+        "Username": "go_Iie"
+    },
+    "150665766": {
+        "Reason": "Handle Tampering, Unknown Instance",
+        "Date": "03/14/2025 4:36 PM",
+        "Username": "banovion"
+    },
+    "4104559574": {
+        "Reason": "Character Aimbot, Hookmetamethod",
+        "Date": "03/15/2025 8:47 AM",
+        "Username": "sstocked"
+    },
+    "2493036586": {
+        "Reason": "Damage Amplifier, Tank",
+        "Date": "03/15/2025 8:49 AM",
+        "Username": "BaldyPingPing"
+    },
+    "1891152295": {
+        "Reason": "Hookmetamethod",
+        "Date": "03/15/2025 8:57 AM",
+        "Username": "BaldyPingPing"
+    },
+    "2231711167": {
+        "Reason": "Tank",
+        "Date": "03/15/2025 1:48 AM",
+        "Username": "executles"
+    },
+    "665767389": {
+        "Reason": "Handle Tampering, Unknown Instance",
+        "Date": "03/15/2025 6:35 PM",
+        "Username": "XeIiorrr"
+    },
+    "7701218978": {
+        "Reason": "Tank, Exploit Error",
+        "Date": "03/15/2025 2:42 PM",
+        "Username": "xiiaea"
     }
 }
